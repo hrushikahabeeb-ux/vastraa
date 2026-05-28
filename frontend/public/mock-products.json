@@ -1,0 +1,1428 @@
+{
+  "success": true,
+  "products": [
+    {
+      "id": "p1",
+      "name": "Embroidered Mirror Kurti",
+      "brand": "Vastra Originals",
+      "category": "Women",
+      "subcategory": "Kurtas",
+      "price": 1299,
+      "originalPrice": 1999,
+      "discount": 35,
+      "rating": 4.5,
+      "reviewCount": 1284,
+      "description": "Handcrafted embroidered kurti in fine cotton fabric. Features intricate mirror work, scalloped neckline and bell sleeves — a timeless silhouette for festive and everyday wear. The fabric is pre-washed for softness and colour retention.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "#C4743A",
+        "#4A3728",
+        "#2E4A3A",
+        "#7B4A5A"
+      ],
+      "colorNames": [
+        "Rust",
+        "Chocolate",
+        "Bottle Green",
+        "Mauve"
+      ],
+      "images": [
+        "/products/product1.jpg",
+        "/products/product1b.jpg"
+      ],
+      "tags": [
+        "embroidered",
+        "festive",
+        "cotton",
+        "ethnic",
+        "kurti"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "Bestseller"
+    },
+    {
+      "id": "p3",
+      "name": "Floral Georgette Anarkali",
+      "brand": "Vastra Festive",
+      "category": "Women",
+      "subcategory": "Ethnic Sets",
+      "price": 2499,
+      "originalPrice": 3999,
+      "discount": 37,
+      "rating": 4.7,
+      "reviewCount": 2103,
+      "description": "Flowing anarkali suit in sheer georgette with intricate zari embroidery on the yoke and hem. Comes with a matching churidar and dupatta. Perfect for weddings, engagements and festive gatherings.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "#8B1A4A",
+        "#1A4A6B",
+        "#3A6B1A",
+        "#6B4A1A"
+      ],
+      "colorNames": [
+        "Maroon",
+        "Royal Blue",
+        "Emerald",
+        "Brown"
+      ],
+      "images": [
+        "/products/product3.jpg",
+        "/products/product3b.jpg"
+      ],
+      "tags": [
+        "ethnic",
+        "festive",
+        "georgette",
+        "wedding",
+        "anarkali"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "Top Rated"
+    },
+    {
+      "id": "p5",
+      "name": "Floral Wrap Sundress",
+      "brand": "Vastra Summer",
+      "category": "Women",
+      "subcategory": "Dresses",
+      "price": 1599,
+      "originalPrice": 2299,
+      "discount": 30,
+      "rating": 4.6,
+      "reviewCount": 987,
+      "description": "Lightweight floral sundress in breathable viscose. Smocked bodice, ruffled hem and adjustable spaghetti straps. Easy to style for brunch, beach or a casual day out. Available in 4 seasonal prints.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "#F4A261",
+        "#E76F51",
+        "#2A9D8F",
+        "#E9C46A"
+      ],
+      "colorNames": [
+        "Peach Floral",
+        "Coral Print",
+        "Teal Garden",
+        "Sunflower"
+      ],
+      "images": [
+        "/products/product5.jpg",
+        "/products/product5b.jpg"
+      ],
+      "tags": [
+        "casual",
+        "summer",
+        "floral",
+        "dress",
+        "western"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "New"
+    },
+    {
+      "id": "p8",
+      "name": "Printed Palazzo Pants",
+      "brand": "Vastra Originals",
+      "category": "Women",
+      "subcategory": "Bottoms",
+      "price": 899,
+      "originalPrice": 1299,
+      "discount": 31,
+      "rating": 4.3,
+      "reviewCount": 765,
+      "description": "Wide-leg palazzo pants in vibrant printed crepe. Elastic waist, side pockets and a flowy silhouette that pairs perfectly with a fitted kurti or crop top. Wrinkle-resistant fabric ideal for travel.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "#9B59B6",
+        "#3498DB",
+        "#1ABC9C",
+        "#E74C3C"
+      ],
+      "colorNames": [
+        "Purple Bloom",
+        "Ocean Blue",
+        "Teal Paisley",
+        "Red Ikat"
+      ],
+      "images": [
+        "/products/product8.jpg",
+        "/products/product8b.jpg"
+      ],
+      "tags": [
+        "casual",
+        "palazzo",
+        "ethnic fusion",
+        "bottoms"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "On Sale"
+    },
+    {
+      "id": "p10",
+      "name": "Silk Blend Zari Saree",
+      "brand": "Vastra Festive",
+      "category": "Women",
+      "subcategory": "Sarees",
+      "price": 3499,
+      "originalPrice": 5499,
+      "discount": 36,
+      "rating": 4.9,
+      "reviewCount": 3201,
+      "description": "Luxurious silk-blend saree with a 6-inch gold zari border and heavily embroidered pallu. Comes with an unstitched blouse piece in matching fabric. A masterpiece of Indian weaving craft for grand occasions.",
+      "sizes": [
+        "Free Size"
+      ],
+      "colors": [
+        "#8B0000",
+        "#1B4332",
+        "#1A237E",
+        "#4A148C"
+      ],
+      "colorNames": [
+        "Deep Red",
+        "Bottle Green",
+        "Navy",
+        "Amethyst"
+      ],
+      "images": [
+        "/products/product10.jpg",
+        "/products/product10b.jpg"
+      ],
+      "tags": [
+        "saree",
+        "silk",
+        "ethnic",
+        "festive",
+        "wedding",
+        "zari"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "Top Rated"
+    },
+    {
+      "id": "p12",
+      "name": "Rayon Flowy Maxi Dress",
+      "brand": "Vastra Summer",
+      "category": "Women",
+      "subcategory": "Dresses",
+      "price": 1399,
+      "originalPrice": 1999,
+      "discount": 30,
+      "rating": 4.5,
+      "reviewCount": 789,
+      "description": "Effortlessly chic maxi dress in soft printed rayon. Features a V-neckline, adjustable waist tie and side slits for ease of movement. The lightweight fabric makes it ideal for warm-weather dressing.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "#E8D5C4",
+        "#C4A882",
+        "#8B5E3C",
+        "#2C4A3A"
+      ],
+      "colorNames": [
+        "Sand",
+        "Camel",
+        "Earthy Brown",
+        "Forest"
+      ],
+      "images": [
+        "/products/product12.jpg",
+        "/products/product12b.jpg"
+      ],
+      "tags": [
+        "dress",
+        "maxi",
+        "casual",
+        "summer",
+        "western"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": null
+    },
+    {
+      "id": "p15",
+      "name": "Boho Floral Co-ord Set",
+      "brand": "Vastra Originals",
+      "category": "Women",
+      "subcategory": "Co-ord Sets",
+      "price": 1899,
+      "originalPrice": 2799,
+      "discount": 32,
+      "rating": 4.5,
+      "reviewCount": 612,
+      "description": "On-trend boho co-ord featuring a cropped square-neck top and high-waist wide-leg pants in matching tropical floral print. Breathable viscose fabric. Mix-and-match both pieces separately too.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "#F4A261",
+        "#E76F51",
+        "#2A9D8F",
+        "#264653"
+      ],
+      "colorNames": [
+        "Orange Floral",
+        "Coral Jungle",
+        "Teal Boho",
+        "Dark Tropics"
+      ],
+      "images": [
+        "/products/product15.jpg",
+        "/products/product15b.jpg"
+      ],
+      "tags": [
+        "coord set",
+        "boho",
+        "casual",
+        "trendy",
+        "western"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "Trending"
+    },
+    {
+      "id": "p17",
+      "name": "Pastel Crop Hoodie",
+      "brand": "Vastra Western",
+      "category": "Women",
+      "subcategory": "Sweatshirts",
+      "price": 1099,
+      "originalPrice": 1599,
+      "discount": 31,
+      "rating": 4.4,
+      "reviewCount": 891,
+      "description": "Super-soft cropped hoodie in a premium fleece blend. Kangaroo pocket, adjustable drawstring hood and ribbed cuffs. Wear it oversized over a sports bra or tucked into high-waist jeans.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "#F3E5F5",
+        "#E1F5FE",
+        "#FFF8E1",
+        "#F8E8EE"
+      ],
+      "colorNames": [
+        "Lavender",
+        "Baby Blue",
+        "Butter Cream",
+        "Blush Pink"
+      ],
+      "images": [
+        "/products/product17.jpg",
+        "/products/product17b.jpg"
+      ],
+      "tags": [
+        "hoodie",
+        "western",
+        "casual",
+        "winter",
+        "sweatshirt"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "On Sale"
+    },
+    {
+      "id": "p18",
+      "name": "Phulkari Embroidered Dupatta",
+      "brand": "Vastra Festive",
+      "category": "Women",
+      "subcategory": "Dupattas",
+      "price": 699,
+      "originalPrice": 999,
+      "discount": 30,
+      "rating": 4.7,
+      "reviewCount": 445,
+      "description": "Authentic hand-embroidered Phulkari dupatta from Punjab. Dense floral motifs in vibrant silk threads on a soft cotton base, with handmade tassel borders. A stunning statement accessory.",
+      "sizes": [
+        "Free Size"
+      ],
+      "colors": [
+        "#E74C3C",
+        "#8E44AD",
+        "#2ECC71",
+        "#F39C12"
+      ],
+      "colorNames": [
+        "Crimson Red",
+        "Royal Purple",
+        "Emerald",
+        "Saffron"
+      ],
+      "images": [
+        "/products/product18.jpg",
+        "/products/product18b.jpg"
+      ],
+      "tags": [
+        "dupatta",
+        "ethnic",
+        "embroidered",
+        "phulkari",
+        "punjab"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": null
+    },
+    {
+      "id": "p20",
+      "name": "Bandhani Lehenga Choli Set",
+      "brand": "Vastra Festive",
+      "category": "Women",
+      "subcategory": "Lehengas",
+      "price": 4299,
+      "originalPrice": 6999,
+      "discount": 38,
+      "rating": 4.8,
+      "reviewCount": 1567,
+      "description": "Breathtaking Bandhani lehenga choli set in pure cotton with authentic Rajasthani tie-dye technique. Mirror embellishments on the choli, a four-layer flared lehenga and a matching bandhani dupatta. A complete celebration outfit.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "#E74C3C",
+        "#8E44AD",
+        "#F39C12",
+        "#16A085"
+      ],
+      "colorNames": [
+        "Red Bandhani",
+        "Purple Bandhani",
+        "Golden Yellow",
+        "Teal Bandhani"
+      ],
+      "images": [
+        "/products/product20.jpg",
+        "/products/product20b.jpg"
+      ],
+      "tags": [
+        "lehenga",
+        "ethnic",
+        "bandhani",
+        "wedding",
+        "festive",
+        "rajasthani"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "Bestseller"
+    },
+    {
+      "id": "p22",
+      "name": "Printed Midi Skirt",
+      "brand": "Vastra Western",
+      "category": "Women",
+      "subcategory": "Skirts",
+      "price": 999,
+      "originalPrice": 1499,
+      "discount": 33,
+      "rating": 4.4,
+      "reviewCount": 523,
+      "description": "Flowy A-line midi skirt in printed satin. Features a concealed back zip, lining for comfort and a subtle slit at the back. Pair with a tucked-in blouse or crop top for an effortlessly put-together look.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "colors": [
+        "#E8C4A0",
+        "#C4A882",
+        "#9B7FD4",
+        "#4AADCF"
+      ],
+      "colorNames": [
+        "Mocha Print",
+        "Caramel",
+        "Lavender Bloom",
+        "Sky Dye"
+      ],
+      "images": [
+        "/products/product22.jpg",
+        "/products/product22b.jpg"
+      ],
+      "tags": [
+        "skirt",
+        "midi",
+        "western",
+        "casual",
+        "printed"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "New"
+    },
+    {
+      "id": "p27",
+      "name": "Block Print Kurta Pyjama Set",
+      "brand": "Vastra Originals",
+      "category": "Women",
+      "subcategory": "Ethnic Sets",
+      "price": 1599,
+      "originalPrice": 2299,
+      "discount": 30,
+      "rating": 4.6,
+      "reviewCount": 678,
+      "description": "Relaxed block-print kurta and pyjama set in soft mulmul cotton. Traditional hand-block printing in earthy tones. Perfect for a casual ethnic look, travel or loungewear that looks put-together.",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "#D4B896",
+        "#A0845C",
+        "#7BA098",
+        "#C4826A"
+      ],
+      "colorNames": [
+        "Beige Block",
+        "Mud Brown",
+        "Sage Teal",
+        "Terracotta"
+      ],
+      "images": [
+        "/products/product27.jpg",
+        "/products/product27b.jpg"
+      ],
+      "tags": [
+        "ethnic",
+        "kurta",
+        "block print",
+        "cotton",
+        "casual"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": null
+    },
+    {
+      "id": "p30",
+      "name": "Patiala Salwar Suit",
+      "brand": "Vastra Festive",
+      "category": "Women",
+      "subcategory": "Ethnic Sets",
+      "price": 1799,
+      "originalPrice": 2699,
+      "discount": 33,
+      "rating": 4.6,
+      "reviewCount": 834,
+      "description": "Classic Punjabi Patiala suit in soft cotton fabric. Features a A-line kurti with embroidered neckline, voluminous Patiala salwar and matching chiffon dupatta with embroidered border. Light, breezy and effortlessly elegant.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "#E91E8C",
+        "#9C27B0",
+        "#F44336",
+        "#3F51B5"
+      ],
+      "colorNames": [
+        "Hot Pink",
+        "Purple",
+        "Cherry Red",
+        "Indigo"
+      ],
+      "images": [
+        "/products/product30.jpg",
+        "/products/product30b.jpg"
+      ],
+      "tags": [
+        "ethnic",
+        "patiala",
+        "punjabi",
+        "cotton",
+        "festive"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "Top Rated"
+    },
+    {
+      "id": "p2",
+      "name": "Premium Cotton Dress Shirt",
+      "brand": "Vastra Men",
+      "category": "Men",
+      "subcategory": "Shirts",
+      "price": 899,
+      "originalPrice": 1499,
+      "discount": 40,
+      "rating": 4.3,
+      "reviewCount": 876,
+      "description": "Premium 100% cotton poplin shirt with a slim cut. Features a spread collar, hand-finished mother-of-pearl buttons, single-needle side seams and a back yoke with pleat. A boardroom essential.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "#FFFFFF",
+        "#D6E4F0",
+        "#1E3A5F",
+        "#2C2C2C"
+      ],
+      "colorNames": [
+        "Crisp White",
+        "Sky Blue",
+        "French Navy",
+        "Charcoal"
+      ],
+      "images": [
+        "/products/product2.jpg",
+        "/products/product2b.jpg"
+      ],
+      "tags": [
+        "formal",
+        "cotton",
+        "office",
+        "shirt"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "On Sale"
+    },
+    {
+      "id": "p4",
+      "name": "Stretch Slim Chinos",
+      "brand": "Vastra Men",
+      "category": "Men",
+      "subcategory": "Trousers",
+      "price": 1199,
+      "originalPrice": 1799,
+      "discount": 33,
+      "rating": 4.2,
+      "reviewCount": 654,
+      "description": "2% elastane stretch-cotton chinos in a slim fit. Flat front, 5-pocket design, zip fly and belt loops. The stretch fabric moves with you — ideal for the office and evening alike.",
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "colors": [
+        "#C8AD7F",
+        "#2C3E50",
+        "#1A3A2A",
+        "#4A3728"
+      ],
+      "colorNames": [
+        "Desert Khaki",
+        "Navy",
+        "Olive Grove",
+        "Tobacco"
+      ],
+      "images": [
+        "/products/product4.jpg",
+        "/products/product4b.jpg"
+      ],
+      "tags": [
+        "casual",
+        "office",
+        "cotton",
+        "trousers",
+        "chinos"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": null
+    },
+    {
+      "id": "p7",
+      "name": "Unstructured Linen Blazer",
+      "brand": "Vastra Men",
+      "category": "Men",
+      "subcategory": "Blazers",
+      "price": 2999,
+      "originalPrice": 4499,
+      "discount": 33,
+      "rating": 4.4,
+      "reviewCount": 321,
+      "description": "Relaxed-fit unstructured linen blazer. No lining, minimal padding and a soft chest piece for a natural drape. Notch lapels, flap patch pockets and a single-button front. The summer blazer you will reach for every day.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "#F5F0E8",
+        "#4A5568",
+        "#2D3748",
+        "#744210"
+      ],
+      "colorNames": [
+        "Natural Linen",
+        "Slate Grey",
+        "Charcoal",
+        "Tan"
+      ],
+      "images": [
+        "/products/product7.jpg",
+        "/products/product7b.jpg"
+      ],
+      "tags": [
+        "formal",
+        "linen",
+        "blazer",
+        "office",
+        "smart casual"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": null
+    },
+    {
+      "id": "p9",
+      "name": "Classic Piqué Polo",
+      "brand": "Vastra Men",
+      "category": "Men",
+      "subcategory": "T-Shirts",
+      "price": 699,
+      "originalPrice": 999,
+      "discount": 30,
+      "rating": 4.1,
+      "reviewCount": 1102,
+      "description": "Timeless piqué polo shirt in 100% combed cotton. Ribbed collar and cuffs, two-button placket and a classic fit that sits just right. Embroidered Vastra logo on the chest.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "#FFFFFF",
+        "#1A3A5C",
+        "#2E7D32",
+        "#C62828"
+      ],
+      "colorNames": [
+        "White",
+        "Navy",
+        "Bottle Green",
+        "Burgundy"
+      ],
+      "images": [
+        "/products/product9.jpg",
+        "/products/product9b.jpg"
+      ],
+      "tags": [
+        "casual",
+        "polo",
+        "cotton",
+        "t-shirt"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": null
+    },
+    {
+      "id": "p11",
+      "name": "Washed Denim Jacket",
+      "brand": "Vastra Western",
+      "category": "Men",
+      "subcategory": "Jackets",
+      "price": 1799,
+      "originalPrice": 2699,
+      "discount": 33,
+      "rating": 4.4,
+      "reviewCount": 543,
+      "description": "Classic trucker-style denim jacket in 12oz stonewashed denim. Button-front closure, two chest flap pockets, two side pockets and adjustable waist tabs. Pre-washed for an authentic vintage character.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "#5B7FA6",
+        "#2C3E50",
+        "#1A1A2E",
+        "#8B7355"
+      ],
+      "colorNames": [
+        "Light Wash",
+        "Dark Rinse",
+        "Black Washed",
+        "Tan"
+      ],
+      "images": [
+        "/products/product11.jpg",
+        "/products/product11b.jpg"
+      ],
+      "tags": [
+        "denim",
+        "jacket",
+        "casual",
+        "western"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "New"
+    },
+    {
+      "id": "p14",
+      "name": "Wool Blend Formal Suit",
+      "brand": "Vastra Men",
+      "category": "Men",
+      "subcategory": "Suits",
+      "price": 5999,
+      "originalPrice": 8999,
+      "discount": 33,
+      "rating": 4.6,
+      "reviewCount": 234,
+      "description": "Two-piece suit in a luxurious 60% wool, 40% polyester blend. Single-breasted jacket with notch lapels, welt pockets, a double-button front and fully-lined interior. Flat-front tapered trousers with side tabs.",
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        "#1A1A2E",
+        "#2C3E50",
+        "#4A5568",
+        "#78350F"
+      ],
+      "colorNames": [
+        "Midnight Black",
+        "Navy Pinstripe",
+        "Charcoal",
+        "Brown Herringbone"
+      ],
+      "images": [
+        "/products/product14.jpg",
+        "/products/product14b.jpg"
+      ],
+      "tags": [
+        "formal",
+        "suit",
+        "office",
+        "wedding",
+        "premium"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "Premium"
+    },
+    {
+      "id": "p19",
+      "name": "Tapered Jogger Pants",
+      "brand": "Vastra Active",
+      "category": "Men",
+      "subcategory": "Activewear",
+      "price": 799,
+      "originalPrice": 1199,
+      "discount": 33,
+      "rating": 4.2,
+      "reviewCount": 730,
+      "description": "Tapered jogger in a 4-way stretch cotton blend. Elastic waistband with internal drawstring, deep zip side pockets and a ribbed ankle cuff. Moves freely through squats, sprints and everything in between.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "#1A1A2E",
+        "#2C3E50",
+        "#808080",
+        "#4A235A"
+      ],
+      "colorNames": [
+        "Jet Black",
+        "Navy",
+        "Steel Grey",
+        "Plum"
+      ],
+      "images": [
+        "/products/product19.jpg",
+        "/products/product19b.jpg"
+      ],
+      "tags": [
+        "activewear",
+        "jogger",
+        "casual",
+        "sports",
+        "gym"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": null
+    },
+    {
+      "id": "p23",
+      "name": "Cargo Combat Pants",
+      "brand": "Vastra Western",
+      "category": "Men",
+      "subcategory": "Trousers",
+      "price": 1499,
+      "originalPrice": 2199,
+      "discount": 32,
+      "rating": 4.3,
+      "reviewCount": 412,
+      "description": "Relaxed-fit cargo pants in durable ripstop cotton. Six pockets including two buttoned cargo pockets, a zip fly and D-ring belt loops. A streetwear staple built for both style and utility.",
+      "sizes": [
+        "28",
+        "30",
+        "32",
+        "34",
+        "36",
+        "38"
+      ],
+      "colors": [
+        "#3C3C3C",
+        "#4A5A3A",
+        "#8B6914",
+        "#1A1A2E"
+      ],
+      "colorNames": [
+        "Graphite",
+        "Army Olive",
+        "Dark Khaki",
+        "Jet Black"
+      ],
+      "images": [
+        "/products/product23.jpg",
+        "/products/product23b.jpg"
+      ],
+      "tags": [
+        "cargo",
+        "pants",
+        "casual",
+        "western",
+        "streetwear"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "Trending"
+    },
+    {
+      "id": "p24",
+      "name": "Bandhgala Ethnic Jacket",
+      "brand": "Vastra Festive",
+      "category": "Men",
+      "subcategory": "Ethnic",
+      "price": 2299,
+      "originalPrice": 3499,
+      "discount": 34,
+      "rating": 4.7,
+      "reviewCount": 389,
+      "description": "Mandarin-collar Bandhgala jacket in rich brocade fabric. Ideal to layer over a kurta or even a plain shirt for festive occasions. Fitted silhouette with a single-button front and two welt pockets.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "#1A1A2E",
+        "#5C2010",
+        "#2C4A2C",
+        "#3A2C5A"
+      ],
+      "colorNames": [
+        "Midnight Brocade",
+        "Maroon Gold",
+        "Jungle Green",
+        "Royal Indigo"
+      ],
+      "images": [
+        "/products/product24.jpg",
+        "/products/product24b.jpg"
+      ],
+      "tags": [
+        "ethnic",
+        "bandhgala",
+        "festive",
+        "wedding",
+        "jacket"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "Top Rated"
+    },
+    {
+      "id": "p25",
+      "name": "Graphic Print Sports Tee",
+      "brand": "Vastra Active",
+      "category": "Men",
+      "subcategory": "T-Shirts",
+      "price": 499,
+      "originalPrice": 799,
+      "discount": 38,
+      "rating": 4,
+      "reviewCount": 934,
+      "description": "Lightweight 100% cotton round-neck tee with a bold graphic chest print. Pre-shrunk fabric, reinforced shoulder seams and a slightly dropped hem for a relaxed oversized fit. Made for the gym, the street or the sofa.",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "colors": [
+        "#FFFFFF",
+        "#1A1A1A",
+        "#1A3A5C",
+        "#3C1A1A"
+      ],
+      "colorNames": [
+        "White",
+        "Black",
+        "Navy",
+        "Maroon"
+      ],
+      "images": [
+        "/products/product25.jpg",
+        "/products/product25b.jpg"
+      ],
+      "tags": [
+        "t-shirt",
+        "graphic",
+        "casual",
+        "gym",
+        "streetwear"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "On Sale"
+    },
+    {
+      "id": "p26",
+      "name": "Silk Blend Sherwani Set",
+      "brand": "Vastra Festive",
+      "category": "Men",
+      "subcategory": "Ethnic",
+      "price": 7499,
+      "originalPrice": 11999,
+      "discount": 37,
+      "rating": 4.8,
+      "reviewCount": 198,
+      "description": "Resplendent silk-blend sherwani set for grooms and wedding guests. Features a heavily embroidered front panel, mandarin collar, churidar pyjama and a matching stole. Includes a brooch for the pocket.",
+      "sizes": [
+        "38",
+        "40",
+        "42",
+        "44",
+        "46"
+      ],
+      "colors": [
+        "#1A1A2E",
+        "#8B0000",
+        "#1B4332",
+        "#4A3000"
+      ],
+      "colorNames": [
+        "Ivory Gold",
+        "Deep Maroon",
+        "Emerald Green",
+        "Royal Beige"
+      ],
+      "images": [
+        "/products/product26.jpg",
+        "/products/product26b.jpg"
+      ],
+      "tags": [
+        "sherwani",
+        "ethnic",
+        "wedding",
+        "silk",
+        "groom",
+        "festive"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "Premium"
+    },
+    {
+      "id": "p6",
+      "name": "Kids Festive Kurta Set",
+      "brand": "Vastra Kids",
+      "category": "Kids",
+      "subcategory": "Ethnic",
+      "price": 799,
+      "originalPrice": 1199,
+      "discount": 33,
+      "rating": 4.8,
+      "reviewCount": 432,
+      "description": "Soft cotton kurta pyjama set for little boys. Mandarin collar with subtle block print, comfortable elastic waist pyjama. Pre-washed for extra softness. Machine washable and durable for active children.",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y",
+        "5-6Y",
+        "6-7Y",
+        "7-8Y"
+      ],
+      "colors": [
+        "#F4A261",
+        "#4A90D9",
+        "#66BB6A",
+        "#CE93D8"
+      ],
+      "colorNames": [
+        "Orange Zest",
+        "Ocean Blue",
+        "Fresh Green",
+        "Lilac"
+      ],
+      "images": [
+        "/products/product6.jpg",
+        "/products/product6b.jpg"
+      ],
+      "tags": [
+        "kids",
+        "ethnic",
+        "cotton",
+        "festive",
+        "boys"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "Kids Fav"
+    },
+    {
+      "id": "p13",
+      "name": "Girls Smocked Party Frock",
+      "brand": "Vastra Kids",
+      "category": "Kids",
+      "subcategory": "Dresses",
+      "price": 649,
+      "originalPrice": 999,
+      "discount": 35,
+      "rating": 4.7,
+      "reviewCount": 298,
+      "description": "Delightful printed party frock in soft 100% cotton. Elasticated smocked top for comfort, puffed short sleeves and a double-layered skirt. Back zip for easy dressing. Perfect for birthdays and celebrations.",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y",
+        "5-6Y",
+        "6-7Y"
+      ],
+      "colors": [
+        "#FFB6C1",
+        "#B5EAD7",
+        "#FFDAC1",
+        "#C7CEEA"
+      ],
+      "colorNames": [
+        "Candy Pink",
+        "Minty Fresh",
+        "Peach Sorbet",
+        "Lavender"
+      ],
+      "images": [
+        "/products/product13.jpg",
+        "/products/product13b.jpg"
+      ],
+      "tags": [
+        "kids",
+        "girls",
+        "frock",
+        "party",
+        "cotton"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": null
+    },
+    {
+      "id": "p16",
+      "name": "Kids Denim Dungaree",
+      "brand": "Vastra Kids",
+      "category": "Kids",
+      "subcategory": "Casuals",
+      "price": 849,
+      "originalPrice": 1299,
+      "discount": 35,
+      "rating": 4.6,
+      "reviewCount": 367,
+      "description": "Rugged yet adorable denim dungaree for boys and girls. Adjustable shoulder straps, a roomy bib pocket with concealed snaps and a button-side hem for easy on/off. 100% denim that gets softer with every wash.",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y",
+        "5-6Y",
+        "6-7Y",
+        "7-8Y"
+      ],
+      "colors": [
+        "#5B7FA6",
+        "#2C3E50",
+        "#8B7355"
+      ],
+      "colorNames": [
+        "Classic Blue",
+        "Dark Indigo",
+        "Vintage Tan"
+      ],
+      "images": [
+        "/products/product16.jpg",
+        "/products/product16b.jpg"
+      ],
+      "tags": [
+        "kids",
+        "denim",
+        "dungaree",
+        "casual",
+        "unisex"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": null
+    },
+    {
+      "id": "p28",
+      "name": "Kids Graphic T-Shirt",
+      "brand": "Vastra Kids",
+      "category": "Kids",
+      "subcategory": "Casuals",
+      "price": 399,
+      "originalPrice": 599,
+      "discount": 33,
+      "rating": 4.5,
+      "reviewCount": 512,
+      "description": "Fun round-neck tee for kids in 100% super-soft cotton. Bold, playful graphic prints that kids love. Pre-shrunk fabric with double-needle stitching throughout. Machine washable and built to last playtime.",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y",
+        "5-6Y",
+        "6-7Y",
+        "7-8Y",
+        "8-9Y",
+        "9-10Y"
+      ],
+      "colors": [
+        "#FFFFFF",
+        "#FFD700",
+        "#FF6B6B",
+        "#74C69D"
+      ],
+      "colorNames": [
+        "White",
+        "Sunshine Yellow",
+        "Poppy Red",
+        "Mint"
+      ],
+      "images": [
+        "/products/product28.jpg",
+        "/products/product28b.jpg"
+      ],
+      "tags": [
+        "kids",
+        "t-shirt",
+        "graphic",
+        "casual",
+        "unisex"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "On Sale"
+    },
+    {
+      "id": "p29",
+      "name": "Kids Knitted Cardigan",
+      "brand": "Vastra Kids",
+      "category": "Kids",
+      "subcategory": "Winterwear",
+      "price": 899,
+      "originalPrice": 1399,
+      "discount": 36,
+      "rating": 4.7,
+      "reviewCount": 276,
+      "description": "Cosy button-front cardigan in a soft acrylic-cotton blend. Ribbed cuffs and hem, two patch pockets and a relaxed fit for layering. Gentle machine wash. Perfect for school, outings or rainy evenings.",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y",
+        "5-6Y",
+        "6-7Y",
+        "7-8Y"
+      ],
+      "colors": [
+        "#F5E6D3",
+        "#C8DED6",
+        "#D4C5E2",
+        "#F5D5D5"
+      ],
+      "colorNames": [
+        "Warm Cream",
+        "Sage Green",
+        "Soft Purple",
+        "Rose"
+      ],
+      "images": [
+        "/products/product29.jpg",
+        "/products/product29b.jpg"
+      ],
+      "tags": [
+        "kids",
+        "cardigan",
+        "winter",
+        "knit",
+        "school"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "New"
+    },
+    {
+      "id": "p21",
+      "name": "Kids Ethnic Lehenga Set",
+      "brand": "Vastra Kids",
+      "category": "Kids",
+      "subcategory": "Ethnic",
+      "price": 1199,
+      "originalPrice": 1799,
+      "discount": 33,
+      "rating": 4.8,
+      "reviewCount": 345,
+      "description": "Adorable festive lehenga choli set for girls. Embroidered choli with mirror work, a flared lehenga with lace trim and a matching sheer dupatta. Net lining for comfort. Perfect for Diwali, weddings and family occasions.",
+      "sizes": [
+        "2-3Y",
+        "3-4Y",
+        "4-5Y",
+        "5-6Y",
+        "6-7Y",
+        "7-8Y"
+      ],
+      "colors": [
+        "#E91E8C",
+        "#9C27B0",
+        "#FF9800",
+        "#4CAF50"
+      ],
+      "colorNames": [
+        "Fuchsia Pink",
+        "Royal Purple",
+        "Orange Gold",
+        "Emerald"
+      ],
+      "images": [
+        "/products/product21.jpg",
+        "/products/product21b.jpg"
+      ],
+      "tags": [
+        "kids",
+        "girls",
+        "lehenga",
+        "ethnic",
+        "festive",
+        "wedding"
+      ],
+      "inStock": true,
+      "deliveryTime": "15 min",
+      "badge": "Kids Fav"
+    }
+  ],
+  "total": 30,
+  "categories": [
+    {
+      "id": "all",
+      "label": "All",
+      "icon": "◈"
+    },
+    {
+      "id": "Women",
+      "label": "Women",
+      "icon": "♀"
+    },
+    {
+      "id": "Men",
+      "label": "Men",
+      "icon": "♂"
+    },
+    {
+      "id": "Kids",
+      "label": "Kids",
+      "icon": "★"
+    },
+    {
+      "id": "ethnic",
+      "label": "Ethnic",
+      "icon": "◉"
+    },
+    {
+      "id": "western",
+      "label": "Western",
+      "icon": "◇"
+    },
+    {
+      "id": "festive",
+      "label": "Festive",
+      "icon": "✦"
+    },
+    {
+      "id": "active",
+      "label": "Active",
+      "icon": "⚡"
+    }
+  ]
+}
