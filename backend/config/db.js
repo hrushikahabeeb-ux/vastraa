@@ -51,7 +51,7 @@ const img = (n) => [`/products/product${n}.jpg`, `/products/product${n}b.jpg`];
 const products = [
   {
     id: 'p1',
-    name: 'Embroidered Mirror Kurti',
+    name: 'Ivory Classic Kurta Set',
     brand: 'Vastra Originals',
     category: 'Women', subcategory: 'Kurtas',
     price: 1299, originalPrice: 1999, discount: 35,
@@ -66,7 +66,7 @@ const products = [
   },
   {
     id: 'p3',
-    name: 'Floral Georgette Anarkali',
+    name: 'Charcoal Gothic Graphic Tee',
     brand: 'Vastra Festive',
     category: 'Women', subcategory: 'Ethnic Sets',
     price: 2499, originalPrice: 3999, discount: 37,
@@ -81,7 +81,7 @@ const products = [
   },
   {
     id: 'p5',
-    name: 'Floral Wrap Sundress',
+    name: 'Burgundy Street Style Denim Set',
     brand: 'Vastra Summer',
     category: 'Women', subcategory: 'Dresses',
     price: 1599, originalPrice: 2299, discount: 30,
@@ -96,7 +96,7 @@ const products = [
   },
   {
     id: 'p8',
-    name: 'Printed Palazzo Pants',
+    name: 'White Asymmetric Ruched Top',
     brand: 'Vastra Originals',
     category: 'Women', subcategory: 'Bottoms',
     price: 899, originalPrice: 1299, discount: 31,
@@ -111,7 +111,7 @@ const products = [
   },
   {
     id: 'p10',
-    name: 'Silk Blend Zari Saree',
+    name: 'Black Pinstripe Oversized Blazer',
     brand: 'Vastra Festive',
     category: 'Women', subcategory: 'Sarees',
     price: 3499, originalPrice: 5499, discount: 36,
@@ -126,7 +126,7 @@ const products = [
   },
   {
     id: 'p12',
-    name: 'Rayon Flowy Maxi Dress',
+    name: 'Black Faux Leather Bomber Jacket',
     brand: 'Vastra Summer',
     category: 'Women', subcategory: 'Dresses',
     price: 1399, originalPrice: 1999, discount: 30,
@@ -141,7 +141,7 @@ const products = [
   },
   {
     id: 'p15',
-    name: 'Boho Floral Co-ord Set',
+    name: 'Khaki Relaxed Fit Utility Pants',
     brand: 'Vastra Originals',
     category: 'Women', subcategory: 'Co-ord Sets',
     price: 1899, originalPrice: 2799, discount: 32,
@@ -156,7 +156,7 @@ const products = [
   },
   {
     id: 'p17',
-    name: 'Pastel Crop Hoodie',
+    name: 'Burgundy Everyday Tote Bag',
     brand: 'Vastra Western',
     category: 'Women', subcategory: 'Sweatshirts',
     price: 1099, originalPrice: 1599, discount: 31,
@@ -171,7 +171,7 @@ const products = [
   },
   {
     id: 'p18',
-    name: 'Phulkari Embroidered Dupatta',
+    name: '1. Emerald Gold Bracelet Watch',
     brand: 'Vastra Festive',
     category: 'Women', subcategory: 'Dupattas',
     price: 699, originalPrice: 999, discount: 30,
