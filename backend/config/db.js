@@ -171,7 +171,7 @@ const products = [
   },
   {
     id: 'p18',
-    name: '1. Emerald Gold Bracelet Watch',
+    name: 'Emerald Gold Bracelet Watch',
     brand: 'Vastra Festive',
     category: 'Women', subcategory: 'Dupattas',
     price: 699, originalPrice: 999, discount: 30,
@@ -186,7 +186,7 @@ const products = [
   },
   {
     id: 'p20',
-    name: 'Bandhani Lehenga Choli Set',
+    name: 'Champagne Satin Dupatta',
     brand: 'Vastra Festive',
     category: 'Women', subcategory: 'Lehengas',
     price: 4299, originalPrice: 6999, discount: 38,
@@ -201,7 +201,7 @@ const products = [
   },
   {
     id: 'p22',
-    name: 'Printed Midi Skirt',
+    name: 'Burgundy Puma Suede Sneakers',
     brand: 'Vastra Western',
     category: 'Women', subcategory: 'Skirts',
     price: 999, originalPrice: 1499, discount: 33,
@@ -216,7 +216,7 @@ const products = [
   },
   {
     id: 'p27',
-    name: 'Block Print Kurta Pyjama Set',
+    name: 'Marble Finish Phone Case Set',
     brand: 'Vastra Originals',
     category: 'Women', subcategory: 'Ethnic Sets',
     price: 1599, originalPrice: 2299, discount: 30,
